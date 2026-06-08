@@ -1,27 +1,34 @@
-# learning-listas_dinamicas
+# Listas Dinamicas
 
-Repositorio de aprendizaje para practicar estructuras de datos con listas dinámicas.
+<div align="center">
 
-## Categoría
+![Learning](https://img.shields.io/badge/Tipo-Aprendizaje-0ea5e9?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Tema-Estructuras%20de%20Datos-7c3aed?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Practica-22c55e?style=for-the-badge)
 
-`learning-` — ejercicios y proyectos creados para reforzar conocimientos técnicos.
+**Practica de estructuras de datos enfocada en listas dinamicas y manejo de nodos.**
 
-## Objetivo
+</div>
 
-Practicar la implementación y uso de listas dinámicas, entendiendo operaciones básicas como inserción, recorrido, búsqueda, eliminación y manejo de nodos o referencias.
+---
 
-## Temas que cubre
+## Contexto
 
-- Estructuras de datos.
-- Listas dinámicas.
-- Lógica de programación.
-- Manejo de memoria o referencias según el lenguaje utilizado.
-- Ejercicios de práctica académica.
+Repositorio de aprendizaje creado para reforzar fundamentos de programacion mediante la implementacion y uso de listas dinamicas.
+
+## Proposito
+
+- Practicar insercion, recorrido, busqueda y eliminacion de elementos.
+- Comprender referencias, nodos y memoria dinamica.
+- Fortalecer logica de programacion y estructuras de datos.
+- Conservar evidencia de aprendizaje tecnico.
+
+## Temas
+
+![Lists](https://img.shields.io/badge/Listas%20Dinamicas-2563eb?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algoritmos-9333ea?style=flat-square)
+![Practice](https://img.shields.io/badge/Practica-16a34a?style=flat-square)
 
 ## Estado
 
-Repositorio de aprendizaje. Puede contener ejercicios, pruebas y versiones desarrolladas durante el proceso de estudio.
-
-## Nota
-
-Este repositorio forma parte de mi historial de formación como desarrolladora de software.
+Proyecto de aprendizaje conservado como parte de mi formacion como desarrolladora de software.
